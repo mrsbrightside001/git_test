@@ -1,2 +1,2 @@
 Hello world! My name is Steffi and it's been a while since I've used the terminal.
-It's scary and fun at the same time.
+It's scary and fun at the same time. But, I can do it!
